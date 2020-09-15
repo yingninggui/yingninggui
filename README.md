@@ -1,6 +1,6 @@
 ### Hey, I'm Yingning 👋
 
-I'm currently interning at **Uber**, as a [**Klenier Perkins Engineering Fellow**](http://fellows.kleinerperkins.com/), and investing in student founders with [**Contrary**](https://contrarycap.com/). At the University of Waterloo, where I go to school, I study Software Engineering and research Human-Computer Interaction.
+I'm currently studying Software interning at the University of Waterloo. On campus, I research HCI and invest in student founders with [**Contrary**](https://contrarycap.com/). This past summer, I interd at **Uber** as a [**Klenier Perkins Engineering Fellow**](http://fellows.kleinerperkins.com/).
 
 Previously, I interned at [**Social Capital**](https://www.socialcapital.com/) and **Microsoft**, organized Hack the North, led various mentorship initatives for my program, and studied abroad in Singapore.
 
