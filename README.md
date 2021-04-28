@@ -1,9 +1,7 @@
 ### Hey, I'm Yingning 👋
 
-I'm currently studying Software Engineering at the University of Waterloo. On campus, I research HCI and invest in student founders with [**Contrary**](https://contrarycap.com/). This past summer, I interned at **Uber** as a [**Klenier Perkins Engineering Fellow**](http://fellows.kleinerperkins.com/).
+Currently exploring new things :) 
 
-Previously, I've worked at [**Social Capital**](https://www.socialcapital.com/) and **Microsoft**, organized Hack the North, led various mentorship initatives for my program, and studied abroad in Singapore.
+Recently, I founded a startup backed by YC. Before that, I interned at [**Social Capital**](https://www.socialcapital.com/), **Uber** & **Microsoft**. At Waterloo, I helped run [**Hack the North**](https://hackthenorth.com/), invested with [**Contrary**](https://contrarycap.com/), and researched crisis informatics. 
 
-I also dabble a bit in photography and studied film for 4 years.
-
-Always happy to chat - reach me at yingning.gui@uwaterloo.ca! 
+In my spare time, I like to take photos, shoot video, and travel. I'm also interested in fintech, journalism, and the creator economy. 
